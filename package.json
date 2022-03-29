@@ -1,0 +1,11 @@
+{
+  "name": "projetofixe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test run successfully"
+  },
+  "author": "",
+  "license": "ISC"
+}
